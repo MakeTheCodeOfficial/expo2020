@@ -127,6 +127,24 @@ a.btn:hover{
 	text-decoration: none;
 	color: #333;
 }
+.col-sm-4{
+	width: 500px;
+	margin: 2% 10% 4% 7%;
+}
+
+.full{
+	height: 50px;
+	padding: 5px;
+	border: 1px solid #FB9BF7;
+	background:#FF81D9;
+}
+.empty{
+	height: 20px;
+	width: 200px;
+	margin-top: 10% 5% 5% 5%;
+}
+
+}
 @media screen and (max-width: 768px){
 	.flex{
 		display: block;
